@@ -145,6 +145,8 @@ const (
 	LibrarySectionMusic LibrarySection = "artist"
 	// LibrarySectionMovie represents the movies library type
 	LibrarySectionMovie LibrarySection = "movie"
+	// LibrarySectionPhoto represents the photo library type
+	LibrarySectionPhoto LibrarySection = "photo"
 )
 
 // MediaType represente the type of media related to the webhook event
